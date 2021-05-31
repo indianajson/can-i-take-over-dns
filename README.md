@@ -12,3 +12,5 @@ You can read more at: https://0xpatrik.com/subdomain-takeover-ns/
 Provider                                        | Status         | Fingerprint                                                             | Discussion                                                    | Documentation
 --------------------------------------------- | -------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------
 AWS Route 53 | **Not Vulnerable** | ns-\*\*\*\*.awsdns-\*\*.org<br>ns-\*\*\*\*.awsdns-\*\*.co.uk<br>ns-\*\*\*.awsdns-\*\*.com<br>ns-\*\*\*.awsdns-\*\*.net | | <a href="https://github.com/libertalialtd/can-i-take-over-dns/issues/1" target="_blank">Issue #1</a>
+<a href="https://cloud.google.com/" target="_blank">Google Cloud DNS</a> | **Vulnerable** | ns-\*\*\*\*.awsdns-\*\*.org<br>ns-cloud-**.googledomains.com | | <a href="https://github.com/libertalialtd/can-i-take-over-dns/issues/2" target="_blank">Issue #2</a>
+
