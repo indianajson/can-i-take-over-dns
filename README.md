@@ -12,4 +12,4 @@ You can read more at: https://0xpatrik.com/subdomain-takeover-ns/
 
 Provider                                        | Status         | Fingerprint                                                             | Discussion                                                    | Documentation
 --------------------------------------------- | -------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------
-AWS Route 53 | **Not Vulnerable** | ns-\*\*\*\*.awsdns-\*\*.org ns-\*\*\*\*.awsdns-\*\*.co.uk<br>ns-\*\*\*.awsdns-\*\*.com ns-\*\*\*.awsdns-\*\*.net
+AWS Route 53 | **Not Vulnerable** | ns-\*\*\*\*.awsdns-\*\*.org<br>ns-\*\*\*\*.awsdns-\*\*.co.uk<br>ns-\*\*\*.awsdns-\*\*.com<br>ns-\*\*\*.awsdns-\*\*.net
