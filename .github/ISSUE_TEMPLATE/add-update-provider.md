@@ -8,10 +8,10 @@ assignees: ''
 
 ---
 
-### <code>Service</code> - [Service Name]
+### <code>Service</code> - (Service Name)
 
-### <code>Status</code> - [Vulnerable or Note Vulnerable]
+### <code>Status</code> - (Vulnerable or Note Vulnerable)
 
 ### <code>Explanation</code>
 
-[Explanation about the service, if it is vulnerable explain how to claim the hosted zone, if it is not vulnerable explain how you know this.]
+(Explanation about the service, if it is vulnerable explain how to claim the hosted zone if it is not vulnerable explain how you know this.)
