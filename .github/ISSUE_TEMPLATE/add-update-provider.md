@@ -8,9 +8,13 @@ assignees: ''
 
 ---
 
-### <code>Service</code> - (Service Name)
+### <code>Service</code> (Service Name)
 
-### <code>Status</code> - (Vulnerable or Note Vulnerable)
+### <code>Status</code> (Vulnerable or Note Vulnerable)
+
+### <code>Nameserver</code>
+
+(Enter a list of nameservers that identify this provider, use asterisks for random letters, e.g. ns-cloud-**.googledomains.com)
 
 ### <code>Explanation</code>
 
