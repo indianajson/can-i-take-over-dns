@@ -9,7 +9,6 @@ Inspired by the increasingly popular <a href='https://github.com/EdOverflow/can-
 You can read more at: https://0xpatrik.com/subdomain-takeover-ns/
 
 ## Identified Providers
-
 Provider                                        | Status         | Fingerprint                                                             | Discussion                                                    | Documentation
 --------------------------------------------- | -------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------
-AWS Route 53 | **Not Vulnerable** | ns-\*\*\*\*.awsdns-\*\*.org<br>ns-\*\*\*\*.awsdns-\*\*.co.uk<br>ns-\*\*\*.awsdns-\*\*.com<br>ns-\*\*\*.awsdns-\*\*.net
+AWS Route 53 | **Not Vulnerable** | ns-\*\*\*\*.awsdns-\*\*.org<br>ns-\*\*\*\*.awsdns-\*\*.co.uk<br>ns-\*\*\*.awsdns-\*\*.com<br>ns-\*\*\*.awsdns-\*\*.net | | <a href="https://github.com/libertalialtd/can-i-take-over-dns/issues/1" target="_blank">Issue #1</a>
