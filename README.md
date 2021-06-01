@@ -8,7 +8,10 @@ Inspired by the increasingly popular <a href='https://github.com/EdOverflow/can-
 
 You can read more at: https://0xpatrik.com/subdomain-takeover-ns/
 
-## Identified Providers
+## Public DNS Providers
+
+These are companies that provide nameserver services to the general public and whether or not domains pointing to these nameservers are vulnerable to DNS takeover. 
+
 Provider                                        | Status         | Fingerprint                                                             | Discussion                                                    
 --------------------------------------------- | -------------- | -----------------------------------------------------------------------  | -------------------------------------------------------------------------------------------------------------------------------------------
 AWS Route 53 | **Not Vulnerable** | ns-\*\*\*\*.awsdns-\*\*.org<br>ns-\*\*\*\*.awsdns-\*\*.co.uk<br>ns-\*\*\*.awsdns-\*\*.com<br>ns-\*\*\*.awsdns-\*\*.net | <a href="https://github.com/libertalialtd/can-i-take-over-dns/issues/1" target="_blank">Issue #1</a>
@@ -20,6 +23,13 @@ AWS Route 53 | **Not Vulnerable** | ns-\*\*\*\*.awsdns-\*\*.org<br>ns-\*\*\*\*.a
 <a href="https://nsone.net/" target="_blank">NS1</a> | **Vulnerable** | dns1.p\*\*.nsone.net<br>dns2.p\*\*.nsone.net<br>dns3.p\*\*.nsone.net<br>dns4.p\*\*.nsone.net | <a href="https://github.com/libertalialtd/can-i-take-over-dns/issues/7" target="_blank">Issue #7</a>
 
 
+## Private DNS Nameservers
+
+These are private nameservers operated by various companies. The general public cannot create zones on these nameservers and thus takeovers are not possible. Knowning nameservers that are not vulnerable can be helpful to eliminate false positives from your testing. 
+
+Owner                                        | Status         | Fingerprint                                                             | Discussion                                                    
+--------------------------------------------- | -------------- | -----------------------------------------------------------------------  | -------------------------------------------------------------------------------------------------------------------------------------------
+<a href="https://activision.com/">Activision</a> | **Not Vulnerable** | ns\*.activision.com | 
 
 
 
