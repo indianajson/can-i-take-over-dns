@@ -32,6 +32,7 @@ Owner                                        | Status         | Fingerprint     
 --------------------------------------------- | -------------- | -----------------------------------------------------------------------  | -------------------------------------------------------------------------------------------------------------------------------------------
 <a href="https://activision.com/">Activision</a> | **Not Vulnerable** | ns\*.activision.com | 
 <a href="https://lowes.com/">Lowe's</a> | **Not Vulnerable** | authns1.lowes.com<br>authns2.lowes.com | 
+<a href="https://tmobileus.com/">T-Mobile</a> | **Not Vulnerable** | ns10.tmobileus.com<br>ns10.tmobileus.net | 
 
-
+ 
 
