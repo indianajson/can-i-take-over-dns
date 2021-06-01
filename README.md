@@ -9,12 +9,13 @@ Inspired by the increasingly popular <a href='https://github.com/EdOverflow/can-
 You can read more at: https://0xpatrik.com/subdomain-takeover-ns/
 
 ## Identified Providers
-Provider                                        | Status         | Fingerprint                                                             | Discussion                                                    | Documentation
---------------------------------------------- | -------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------
-AWS Route 53 | **Not Vulnerable** | ns-\*\*\*\*.awsdns-\*\*.org<br>ns-\*\*\*\*.awsdns-\*\*.co.uk<br>ns-\*\*\*.awsdns-\*\*.com<br>ns-\*\*\*.awsdns-\*\*.net | | <a href="https://github.com/libertalialtd/can-i-take-over-dns/issues/1" target="_blank">Issue #1</a>
-<a href="https://bizland.com/" target="_blank">Bizland</a> | **Vulnerable** | ns1.bizland.com<br>ns2.bizland.com | | <a href="https://github.com/libertalialtd/can-i-take-over-dns/issues/3" target="_blank">Issue #3</a>
-<a href="https://cloud.google.com/" target="_blank">Google Cloud DNS</a> | **Vulnerable** | ns-cloud-\*\*.googledomains.com | | <a href="https://github.com/libertalialtd/can-i-take-over-dns/issues/2" target="_blank">Issue #2</a>
-<a href="https://mydomain.com/" target="_blank">MyDomain</a> | **Vulnerable <sub><sup>(w/ purchase)</sub></sup>** | ns1.mydomain.com<br>ns2.mydomain.com | | <a href="https://github.com/libertalialtd/can-i-take-over-dns/issues/4" target="_blank">Issue #4</a>
+Provider                                        | Status         | Fingerprint                                                             | Discussion                                                    
+--------------------------------------------- | -------------- | -----------------------------------------------------------------------  | -------------------------------------------------------------------------------------------------------------------------------------------
+AWS Route 53 | **Not Vulnerable** | ns-\*\*\*\*.awsdns-\*\*.org<br>ns-\*\*\*\*.awsdns-\*\*.co.uk<br>ns-\*\*\*.awsdns-\*\*.com<br>ns-\*\*\*.awsdns-\*\*.net | <a href="https://github.com/libertalialtd/can-i-take-over-dns/issues/1" target="_blank">Issue #1</a>
+<a href="https://azure.microsoft.com/" target="_blank">Azure (Microsoft)</a> | **Vulnerable** | ns1-\*\*.azure-dns.com<br>ns2-\*\*.azure-dns.net<br>ns3-\*\*.azure-dns.org<br>ns4-\*\*.azure-dns.info | <a href="https://github.com/libertalialtd/can-i-take-over-dns/issues/5" target="_blank">Issue #5</a>
+<a href="https://bizland.com/" target="_blank">Bizland</a> | **Vulnerable** | ns1.bizland.com<br>ns2.bizland.com | <a href="https://github.com/libertalialtd/can-i-take-over-dns/issues/3" target="_blank">Issue #3</a>
+<a href="https://cloud.google.com/" target="_blank">Google Cloud DNS</a> | **Vulnerable** | ns-cloud-\*\*.googledomains.com | <a href="https://github.com/libertalialtd/can-i-take-over-dns/issues/2" target="_blank">Issue #2</a>
+<a href="https://mydomain.com/" target="_blank">MyDomain</a> | **Vulnerable <sub><sup>(w/ purchase)</sub></sup>** | ns1.mydomain.com<br>ns2.mydomain.com | <a href="https://github.com/libertalialtd/can-i-take-over-dns/issues/4" target="_blank">Issue #4</a>
 
 
 
