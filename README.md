@@ -31,6 +31,7 @@ These are private nameservers operated by various companies. The general public 
 Owner                                        | Status         | Fingerprint                                                             | Discussion                                                    
 --------------------------------------------- | -------------- | -----------------------------------------------------------------------  | -------------------------------------------------------------------------------------------------------------------------------------------
 <a href="https://activision.com/">Activision</a> | **Not Vulnerable** | ns\*.activision.com | 
+<a href="https://lowes.com/">Lowe's</a> | **Not Vulnerable** | authns1.lowes.com<br>authns2.lowes.com | 
 
 
 
