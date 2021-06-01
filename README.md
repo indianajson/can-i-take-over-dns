@@ -20,6 +20,7 @@ AWS Route 53 | **Not Vulnerable** | ns-\*\*\*\*.awsdns-\*\*.org<br>ns-\*\*\*\*.a
 <a href="https://dnsmadeeasy.com/" target="_blank">DNSMadeEasy</a> | **Vulnerable** | ns\*\*.dnsmadeeasy.com | <a href="https://github.com/libertalialtd/can-i-take-over-dns/issues/6" target="_blank">Issue #6</a>
 <a href="https://cloud.google.com/" target="_blank">Google Cloud DNS</a> | **Vulnerable** | ns-cloud-\*\*.googledomains.com | <a href="https://github.com/libertalialtd/can-i-take-over-dns/issues/2" target="_blank">Issue #2</a>
 <a href="https://mydomain.com/" target="_blank">MyDomain</a> | **Vulnerable <sub><sup>(w/ purchase)</sub></sup>** | ns1.mydomain.com<br>ns2.mydomain.com | <a href="https://github.com/libertalialtd/can-i-take-over-dns/issues/4" target="_blank">Issue #4</a>
+<a href="https://name.com/" target="_blank">Name.com</a> | **Vulnerable <sub><sup>(w/ purchase)</sub></sup>** | ns1***.name.com<br>ns2***.name.com<br>ns3***.name.com<br>ns4***.name.com | <a href="https://github.com/libertalialtd/can-i-take-over-dns/issues/8" target="_blank">Issue #8</a>
 <a href="https://nsone.net/" target="_blank">NS1</a> | **Vulnerable** | dns1.p\*\*.nsone.net<br>dns2.p\*\*.nsone.net<br>dns3.p\*\*.nsone.net<br>dns4.p\*\*.nsone.net | <a href="https://github.com/libertalialtd/can-i-take-over-dns/issues/7" target="_blank">Issue #7</a>
 
 
