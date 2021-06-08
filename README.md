@@ -42,8 +42,8 @@ These are private nameservers operated by various companies. The general public 
 Owner                                        | Status         | Fingerprint                                                             | Discussion                                                    
 --------------------------------------------- | -------------- | -----------------------------------------------------------------------  | -------------------------------------------------------------------------------------------------------------------------------------------
 <a href="https://activision.com/">Activision</a> | **Not Vulnerable** | ns\*.activision.com | 
+<a href="https://capitalone.com/">Capital One</a> | **Not Vulnerable** | ns1.capitalone.com<br>ns2.capitalone.com<br>ns3.capitalone.com | 
+<a href="https://CSU.ST/">CSU.ST</a> | **Not Vulnerable** | 0xd0a1.csust.net<br>0xd0a2.csust.net<br>0xd0a3.csust.net<br>0xd0a4.csust.net<br> | 
+<a href="https://disney.com/">The Walt Disney Company</a> | **Not Vulnerable** | ns1.twdcns.com<br>ns2.twdcns.com<br>ns3.twdcns.info<br>ns4.twdcns.info<br>ns5.twdcns.co.uk<br>ns6.twdcns.co.u |
 <a href="https://lowes.com/">Lowe's</a> | **Not Vulnerable** | authns1.lowes.com<br>authns2.lowes.com | 
 <a href="https://tmobileus.com/">T-Mobile</a> | **Not Vulnerable** | ns10.tmobileus.com<br>ns10.tmobileus.net | 
-<a href="https://capitalone.com/">Capital One</a> | **Not Vulnerable** | ns1.capitalone.com<br>ns2.capitalone.com<br>ns3.capitalone.com | 
-
-
