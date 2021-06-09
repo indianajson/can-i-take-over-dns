@@ -10,7 +10,7 @@ assignees: ''
 
 ### <code>Service</code> (Service Name)
 
-### <code>Status</code> (Vulnerable or Note Vulnerable)
+### <code>Status</code> (Vulnerable or Not Vulnerable)
 
 ### <code>Nameserver</code>
 
