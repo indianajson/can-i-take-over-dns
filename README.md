@@ -8,7 +8,7 @@ These companies provide DNS nameserver services to the general public. In this l
 
 Provider                                        | Status         | Fingerprint                                                             | Takeover Instructions                                                    
 --------------------------------------------- | -------------- | -----------------------------------------------------------------------  | -------------------------------------------------------------------------------------------------------------------------------------------
-[000Domains](https://000domains.com/) | **Not Vulnerable** | ns1.000domains.com<br>ns2.000domains.com<br>fwns1.000domains.com<br>fwns2.000domains.com | [Issue #19](https://github.com/indianajson/can-i-take-over-dns/issues/19)
+[000Domains](https://000domains.com/) | **Vulnerable** | ns1.000domains.com<br>ns2.000domains.com<br>fwns1.000domains.com<br>fwns2.000domains.com | [Issue #19](https://github.com/indianajson/can-i-take-over-dns/issues/19)
 [AWS Route 53](https://aws.amazon.com/) | **Not Vulnerable** | ns-\*\*\*\*.awsdns-\*\*.org<br>ns-\*\*\*\*.awsdns-\*\*.co.uk<br>ns-\*\*\*.awsdns-\*\*.com<br>ns-\*\*\*.awsdns-\*\*.net | [Issue #1](https://github.com/indianajson/can-i-take-over-dns/issues/1)
 [Azure (Microsoft)](https://azure.microsoft.com/) | **Vulnerable** | ns1-\*\*.azure-dns.com<br>ns2-\*\*.azure-dns.net<br>ns3-\*\*.azure-dns.org<br>ns4-\*\*.azure-dns.info | [Issue #5](https://github.com/indianajson/can-i-take-over-dns/issues/5)
 [Bizland](https://bizland.com/) | **Vulnerable** | ns1.bizland.com<br>ns2.bizland.com | [Issue #3](https://github.com/indianajson/can-i-take-over-dns/issues/3)
