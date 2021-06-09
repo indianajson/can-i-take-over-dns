@@ -8,18 +8,18 @@ These companies provide DNS nameserver services to the general public. In this l
 
 Provider                                        | Status         | Fingerprint                                                             | Takeover Instructions                                                    
 --------------------------------------------- | -------------- | -----------------------------------------------------------------------  | -------------------------------------------------------------------------------------------------------------------------------------------
-<a href="https://aws.amazon.com/" target="_blank">AWS Route 53</a> | **Not Vulnerable** | ns-\*\*\*\*.awsdns-\*\*.org<br>ns-\*\*\*\*.awsdns-\*\*.co.uk<br>ns-\*\*\*.awsdns-\*\*.com<br>ns-\*\*\*.awsdns-\*\*.net | <a href="https://github.com/libertalialtd/can-i-take-over-dns/issues/1" target="_blank">Issue #1</a>
-<a href="https://azure.microsoft.com/" target="_blank">Azure (Microsoft)</a> | **Vulnerable** | ns1-\*\*.azure-dns.com<br>ns2-\*\*.azure-dns.net<br>ns3-\*\*.azure-dns.org<br>ns4-\*\*.azure-dns.info | <a href="https://github.com/libertalialtd/can-i-take-over-dns/issues/5" target="_blank">Issue #5</a>
-<a href="https://bizland.com/" target="_blank">Bizland</a> | **Vulnerable** | ns1.bizland.com<br>ns2.bizland.com | <a href="https://github.com/libertalialtd/can-i-take-over-dns/issues/3" target="_blank">Issue #3</a>
-<a href="https://cloudflare.com/" target="_blank">Cloudflare</a> | **Vulnerable** | \*.ns.cloudflare.com | <a href="https://github.com/libertalialtd/can-i-take-over-dns/issues/10" target="_blank">Issue #10</a>
-<a href="https://dnsmadeeasy.com/" target="_blank">DNSMadeEasy</a> | **Vulnerable** | ns\*\*.dnsmadeeasy.com | <a href="https://github.com/libertalialtd/can-i-take-over-dns/issues/6" target="_blank">Issue #6</a>
-<a href="https://domainpeople.com/" target="_blank">DomainPeople</a> | **Not Vulnerable** | ns1.domainpeople.com<br>ns2.domainpeople.com | <a href="https://github.com/libertalialtd/can-i-take-over-dns/issues/14" target="_blank">Issue #14</a>
-<a href="https://easydns.com/" target="_blank">EasyDNS</a> | **Vulnerable** | dns1.easydns.com<br>dns2.easydns.net<br>dns3.easydns.org<br>dns4.easydns.info| <a href="https://github.com/libertalialtd/can-i-take-over-dns/issues/9" target="_blank">Issue #9</a>
-<a href="https://cloud.google.com/" target="_blank">Google Cloud DNS</a> | **Vulnerable** | ns-cloud-\*\*.googledomains.com | <a href="https://github.com/libertalialtd/can-i-take-over-dns/issues/2" target="_blank">Issue #2</a>
-<a href="https://mydomain.com/" target="_blank">MyDomain</a> | **Vulnerable <sub><sup>(w/ purchase)</sub></sup>** | ns1.mydomain.com<br>ns2.mydomain.com | <a href="https://github.com/libertalialtd/can-i-take-over-dns/issues/4" target="_blank">Issue #4</a>
-<a href="https://name.com/" target="_blank">Name.com</a> | **Vulnerable <sub><sup>(w/ purchase)</sub></sup>** | ns1***.name.com<br>ns2***.name.com<br>ns3***.name.com<br>ns4***.name.com | <a href="https://github.com/libertalialtd/can-i-take-over-dns/issues/8" target="_blank">Issue #8</a>
-<a href="https://networksolutions.com/" target="_blank">Network Solutions</a> | **Not Vulnerable** | ns\*\*.worldnic.com | 
-<a href="https://nsone.net/" target="_blank">NS1</a> | **Vulnerable** | dns1.p\*\*.nsone.net<br>dns2.p\*\*.nsone.net<br>dns3.p\*\*.nsone.net<br>dns4.p\*\*.nsone.net | <a href="https://github.com/libertalialtd/can-i-take-over-dns/issues/7" target="_blank">Issue #7</a>
+[AWS Route 53](https://aws.amazon.com/) | **Not Vulnerable** | ns-\*\*\*\*.awsdns-\*\*.org<br>ns-\*\*\*\*.awsdns-\*\*.co.uk<br>ns-\*\*\*.awsdns-\*\*.com<br>ns-\*\*\*.awsdns-\*\*.net | [Issue #1](https://github.com/libertalialtd/can-i-take-over-dns/issues/1)
+[Azure (Microsoft)](https://azure.microsoft.com/) | **Vulnerable** | ns1-\*\*.azure-dns.com<br>ns2-\*\*.azure-dns.net<br>ns3-\*\*.azure-dns.org<br>ns4-\*\*.azure-dns.info | [Issue #5](https://github.com/libertalialtd/can-i-take-over-dns/issues/5)
+[Bizland](https://bizland.com/) | **Vulnerable** | ns1.bizland.com<br>ns2.bizland.com | [Issue #3](https://github.com/libertalialtd/can-i-take-over-dns/issues/3)
+[Cloudflare](https://cloudflare.com/) | **Vulnerable** | \*.ns.cloudflare.com | [Issue #10](https://github.com/libertalialtd/can-i-take-over-dns/issues/10)
+[DNSMadeEasy](https://dnsmadeeasy.com/) | **Vulnerable** | ns\*\*.dnsmadeeasy.com | [Issue #6](https://github.com/indianajson/can-i-take-over-dns/issues/6)
+[DomainPeople](https://domainpeople.com/)| **Not Vulnerable** | ns1.domainpeople.com<br>ns2.domainpeople.com | [Issue #14](https://github.com/indianajson/can-i-take-over-dns/issues/14)
+[EasyDNS](https://easydns.com/) | **Vulnerable** | dns1.easydns.com<br>dns2.easydns.net<br>dns3.easydns.org<br>dns4.easydns.info| [Issue #9](https://github.com/indianajson/can-i-take-over-dns/issues/9)
+[Google Cloud](https://cloud.google.com/) | **Vulnerable** | ns-cloud-\*\*.googledomains.com | [Issue #2](https://github.com/indianajson/can-i-take-over-dns/issues/2)
+[MyDomain](https://mydomain.com/) | **Vulnerable <sub><sup>(w/ purchase)</sub></sup>** | ns1.mydomain.com<br>ns2.mydomain.com | [Issue #4](https://github.com/indianajson/can-i-take-over-dns/issues/4)
+[Name.com](https://name.com/) | **Vulnerable <sub><sup>(w/ purchase)</sub></sup>** | ns1***.name.com<br>ns2***.name.com<br>ns3***.name.com<br>ns4***.name.com | [Issue #8](https://github.com/libertalialtd/can-i-take-over-dns/issues/8)
+[Network Solutions](https://networksolutions.com/) | **Not Vulnerable** | ns\*\*.worldnic.com | [Issue #15](https://github.com/indianajson/can-i-take-over-dns/issues/15)
+[NS1](https://nsone.net/) | **Vulnerable** | dns1.p\*\*.nsone.net<br>dns2.p\*\*.nsone.net<br>dns3.p\*\*.nsone.net<br>dns4.p\*\*.nsone.net | [Issue #7](https://github.com/indianajson/can-i-take-over-dns/issues/7)
 
 
 ## Private DNS
@@ -28,13 +28,13 @@ These are private nameservers operated by various companies. The general public 
 
 Owner                                        | Status         | Fingerprint                                                             |                                                     
 --------------------------------------------- | -------------- | -----------------------------------------------------------------------  |
-<a href="https://activision.com/">Activision</a> | **Not Vulnerable** | ns\*.activision.com | 
-<a href="https://apple.com/">Apple</a> | **Not Vulnerable** | a.ns.apple.com<br>b.ns.apple.com<br>c.ns.apple.com<br>d.ns.apple.com |
-<a href="https://capitalone.com/">Capital One</a> | **Not Vulnerable** | ns1.capitalone.com<br>ns2.capitalone.com<br>ns3.capitalone.com | 
-<a href="https://CSU.ST/">CSU.ST</a> | **Not Vulnerable** | 0xd0a1.csust.net<br>0xd0a2.csust.net<br>0xd0a3.csust.net<br>0xd0a4.csust.net | 
-<a href="https://disney.com/">The Walt Disney Company</a> | **Not Vulnerable** | ns1.twdcns.com<br>ns2.twdcns.com<br>ns3.twdcns.info<br>ns4.twdcns.info<br>ns5.twdcns.co.uk<br>ns6.twdcns.co.u |
-<a href="https://lowes.com/">Lowe's</a> | **Not Vulnerable** | authns1.lowes.com<br>authns2.lowes.com | 
-<a href="https://tmobileus.com/">T-Mobile</a> | **Not Vulnerable** | ns10.tmobileus.com<br>ns10.tmobileus.net | 
+[Activision](https://activision.com/) | **Not Vulnerable** | ns\*.activision.com | 
+[Apple](https://apple.com/) | **Not Vulnerable** | a.ns.apple.com<br>b.ns.apple.com<br>c.ns.apple.com<br>d.ns.apple.com |
+[Capital One](https://capitalone.com/) | **Not Vulnerable** | ns1.capitalone.com<br>ns2.capitalone.com<br>ns3.capitalone.com | 
+[CSU.ST](https://CSU.ST/) | **Not Vulnerable** | 0xd0a1.csust.net<br>0xd0a2.csust.net<br>0xd0a3.csust.net<br>0xd0a4.csust.net | 
+[The Walt Disney Company](https://disney.com/) | **Not Vulnerable** | ns1.twdcns.com<br>ns2.twdcns.com<br>ns3.twdcns.info<br>ns4.twdcns.info<br>ns5.twdcns.co.uk<br>ns6.twdcns.co.u |
+[Lowe's](https://lowes.com/) | **Not Vulnerable** | authns1.lowes.com<br>authns2.lowes.com | 
+[T-Mobile](https://tmobileus.com/) | **Not Vulnerable** | ns10.tmobileus.com<br>ns10.tmobileus.net | 
 
 ## What is a DNS takeover?
 
