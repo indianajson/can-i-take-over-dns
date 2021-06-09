@@ -24,6 +24,7 @@ Provider                                        | Status         | Fingerprint  
 [Name.com](https://name.com/) | **Vulnerable <sub><sup>(w/ purchase)</sub></sup>** | ns1***.name.com<br>ns2***.name.com<br>ns3***.name.com<br>ns4***.name.com | [Issue #8](https://github.com/libertalialtd/can-i-take-over-dns/issues/8)
 [Network Solutions](https://networksolutions.com/) | **Not Vulnerable** | ns\*\*.worldnic.com | [Issue #15](https://github.com/indianajson/can-i-take-over-dns/issues/15)
 [NS1](https://nsone.net/) | **Vulnerable** | dns1.p\*\*.nsone.net<br>dns2.p\*\*.nsone.net<br>dns3.p\*\*.nsone.net<br>dns4.p\*\*.nsone.net | [Issue #7](https://github.com/indianajson/can-i-take-over-dns/issues/7)
+[Yahoo Small Business](https://yahoosmallbusiness.com/) | **Vulnerable<sub><sup> (w/ purchase)</sub></sup>** | yns1.yahoo.com<br>yns2.yahoo.com | [Issue #20](https://github.com/indianajson/can-i-take-over-dns/issues/20)
 
 
 ## Private DNS
