@@ -22,6 +22,7 @@ Provider                                        | Status         | Fingerprint  
 [EasyDNS](https://easydns.com/) | **Vulnerable** | dns1.easydns.com<br>dns2.easydns.net<br>dns3.easydns.org<br>dns4.easydns.info| [Issue #9](https://github.com/indianajson/can-i-take-over-dns/issues/9)
 [Google Cloud](https://cloud.google.com/) | **Vulnerable** | ns-cloud-\*\*.googledomains.com | [Issue #2](https://github.com/indianajson/can-i-take-over-dns/issues/2)
 [Hover](https://hover.com/) | **Not Vulnerable** | ns1.hover.com<br>ns2.hover.com | [Issue #21](https://github.com/indianajson/can-i-take-over-dns/issues/21)
+[MediaTemple (mt)](https://mediatemple.net/) | **Vulnerable <sub><sup>(w/ purchase)</sub></sup>** | ns1.mediatemple.net<br>ns2.mediatemple.net | [Issue #23](https://github.com/indianajson/can-i-take-over-dns/issues/23)
 [MyDomain](https://mydomain.com/) | **Vulnerable <sub><sup>(w/ purchase)</sub></sup>** | ns1.mydomain.com<br>ns2.mydomain.com | [Issue #4](https://github.com/indianajson/can-i-take-over-dns/issues/4)
 [Name.com](https://name.com/) | **Vulnerable <sub><sup>(w/ purchase)</sub></sup>** | ns1***.name.com<br>ns2***.name.com<br>ns3***.name.com<br>ns4***.name.com | [Issue #8](https://github.com/libertalialtd/can-i-take-over-dns/issues/8)
 [Network Solutions](https://networksolutions.com/) | **Not Vulnerable** | ns\*\*.worldnic.com | [Issue #15](https://github.com/indianajson/can-i-take-over-dns/issues/15)
