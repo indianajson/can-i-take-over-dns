@@ -27,6 +27,7 @@ Provider                                        | Status         | Fingerprint  
 [Name.com](https://name.com/) | **Vulnerable <sub><sup>(w/ purchase)</sub></sup>** | ns1***.name.com<br>ns2***.name.com<br>ns3***.name.com<br>ns4***.name.com | [Issue #8](https://github.com/libertalialtd/can-i-take-over-dns/issues/8)
 [Network Solutions](https://networksolutions.com/) | **Not Vulnerable** | ns\*\*.worldnic.com | [Issue #15](https://github.com/indianajson/can-i-take-over-dns/issues/15)
 [NS1](https://nsone.net/) | **Vulnerable** | dns1.p\*\*.nsone.net<br>dns2.p\*\*.nsone.net<br>dns3.p\*\*.nsone.net<br>dns4.p\*\*.nsone.net | [Issue #7](https://github.com/indianajson/can-i-take-over-dns/issues/7)
+[TierraNet](https://tierra.net/) | **Vulnerable** | ns1.domaindiscover.com<br>ns2.domaindiscover.com | [Issue #24](https://github.com/indianajson/can-i-take-over-dns/issues/24)
 [Yahoo Small Business](https://yahoosmallbusiness.com/) | **Vulnerable<sub><sup> (w/ purchase)</sub></sup>** | yns1.yahoo.com<br>yns2.yahoo.com | [Issue #20](https://github.com/indianajson/can-i-take-over-dns/issues/20)
 
 
@@ -40,7 +41,7 @@ Owner                                        | Status         | Fingerprint     
 [Apple](https://apple.com/) | **Not Vulnerable** | a.ns.apple.com<br>b.ns.apple.com<br>c.ns.apple.com<br>d.ns.apple.com |
 [Capital One](https://capitalone.com/) | **Not Vulnerable** | ns1.capitalone.com<br>ns2.capitalone.com<br>ns3.capitalone.com | 
 [CSU.ST](https://CSU.ST/) | **Not Vulnerable** | 0xd0a1.csust.net<br>0xd0a2.csust.net<br>0xd0a3.csust.net<br>0xd0a4.csust.net | 
-[The Walt Disney Company](https://disney.com/) | **Not Vulnerable** | ns1.twdcns.com<br>ns2.twdcns.com<br>ns3.twdcns.info<br>ns4.twdcns.info<br>ns5.twdcns.co.uk<br>ns6.twdcns.co.u |
+[The Walt Disney Company](https://disney.com/) | **Not Vulnerable** | ns1.twdcns.com<br>ns2.twdcns.com<br>ns3.twdcns.info<br>ns4.twdcns.info<br>ns5.twdcns.co.uk<br>ns6.twdcns.co.uk |
 [Lowe's](https://lowes.com/) | **Not Vulnerable** | authns1.lowes.com<br>authns2.lowes.com | 
 [T-Mobile](https://tmobileus.com/) | **Not Vulnerable** | ns10.tmobileus.com<br>ns10.tmobileus.net | 
 
