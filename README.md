@@ -23,6 +23,7 @@ Provider                                        | Status         | Fingerprint  
 [Google Cloud](https://cloud.google.com/) | **Vulnerable** | ns-cloud-\*\*.googledomains.com | [Issue #2](https://github.com/indianajson/can-i-take-over-dns/issues/2)
 [Hover](https://hover.com/) | **Not Vulnerable** | ns1.hover.com<br>ns2.hover.com | [Issue #21](https://github.com/indianajson/can-i-take-over-dns/issues/21)
 [Hurricane Electric](https://dns.he.net/) | **Vulnerable** | ns5.he.net<br>ns4.he.net<br>ns3.he.net<br>ns2.he.net<br>ns1.he.net | [Issue #25](https://github.com/indianajson/can-i-take-over-dns/issues/25)
+[Linode](https://linode.com/) | **Vulnerable** | ns1.linode.com<br>ns2.linode.com | [Issue #26](https://github.com/indianajson/can-i-take-over-dns/issues/26)
 [MediaTemple (mt)](https://mediatemple.net/) | **Vulnerable <sub><sup>(w/ purchase)</sub></sup>** | ns1.mediatemple.net<br>ns2.mediatemple.net | [Issue #23](https://github.com/indianajson/can-i-take-over-dns/issues/23)
 [MyDomain](https://mydomain.com/) | **Vulnerable <sub><sup>(w/ purchase)</sub></sup>** | ns1.mydomain.com<br>ns2.mydomain.com | [Issue #4](https://github.com/indianajson/can-i-take-over-dns/issues/4)
 [Name.com](https://name.com/) | **Vulnerable <sub><sup>(w/ purchase)</sub></sup>** | ns1***.name.com<br>ns2***.name.com<br>ns3***.name.com<br>ns4***.name.com | [Issue #8](https://github.com/libertalialtd/can-i-take-over-dns/issues/8)
