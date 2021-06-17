@@ -42,6 +42,7 @@ These are private nameservers operated by various companies. The general public 
 Owner                                        | Status         | Fingerprint                                                             |                                                     
 --------------------------------------------- | -------------- | -----------------------------------------------------------------------  |
 [Activision](https://activision.com/) | **Not Vulnerable** | ns\*.activision.com | 
+[Adobe](https://adobe.com/) | **Not Vulnerable** | adobe-dns-01.adobe.com<br>adobe-dns-02.adobe.com<br>adobe-dns-03.adobe.com<br>adobe-dns-04.adobe.com<br>adobe-dns-05.adobe.com | 
 [Apple](https://apple.com/) | **Not Vulnerable** | a.ns.apple.com<br>b.ns.apple.com<br>c.ns.apple.com<br>d.ns.apple.com |
 [Automattic](https://automattic.com/) | **Not Vulnerable** | ns1.automattic.com<br>ns2.automattic.com |
 [Capital One](https://capitalone.com/) | **Not Vulnerable** | ns1.capitalone.com<br>ns2.capitalone.com<br>ns3.capitalone.com | 
