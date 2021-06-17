@@ -43,6 +43,7 @@ Owner                                        | Status         | Fingerprint     
 --------------------------------------------- | -------------- | -----------------------------------------------------------------------  |
 [Activision](https://activision.com/) | **Not Vulnerable** | ns\*.activision.com | 
 [Apple](https://apple.com/) | **Not Vulnerable** | a.ns.apple.com<br>b.ns.apple.com<br>c.ns.apple.com<br>d.ns.apple.com |
+[Automattic](https://automattic.com/) | **Not Vulnerable** | ns1.automattic.com<br>ns2.automattic.com |
 [Capital One](https://capitalone.com/) | **Not Vulnerable** | ns1.capitalone.com<br>ns2.capitalone.com<br>ns3.capitalone.com | 
 [CSU.ST](https://CSU.ST/) | **Not Vulnerable** | 0xd0a1.csust.net<br>0xd0a2.csust.net<br>0xd0a3.csust.net<br>0xd0a4.csust.net | 
 [The Walt Disney Company](https://disney.com/) | **Not Vulnerable** | ns1.twdcns.com<br>ns2.twdcns.com<br>ns3.twdcns.info<br>ns4.twdcns.info<br>ns5.twdcns.co.uk<br>ns6.twdcns.co.uk |
