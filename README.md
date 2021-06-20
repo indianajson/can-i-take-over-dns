@@ -1,4 +1,4 @@
-<h1 align="center">Can I Take Over DNS?<br><sup><sub>A list of DNS providers and whether their zones are vulnerable to DNS takeover!</sub></sup></h1>
+<h1 align="center">Can I Take Over DNS?<br><sup><sub>A list of DNS providers and whether their zones are vulnerable to DNS takeover!<br><sup> Maintained by</sup> <a href="https://twitter.com/indianajson"><img src="https://img.shields.io/twitter/follow/indianajson?style=social&label=%40indianajson"/></a>&nbsp;</sub></sup> </h1>
 
 Inspired by the popular [Can I Take Over XYZ?](https://github.com/EdOverflow/can-i-take-over-xyz) project by [@EdOverflow](https://github.com/EdOverflow) this project is uniquely oriented towards [DNS takeovers](#what-is-a-dns-takeover). While dangling DNS records pose a high threat to companies and warrant high bounties, DNS takeovers pose even greater risks and are sometimes even easier to find. We are trying to make this list comprehensive, so please [contribute](#contributions)!
 
