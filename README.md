@@ -32,7 +32,8 @@ Provider                                        | Status         | Fingerprint  
 [NS1](https://nsone.net/) | **Vulnerable** | dns1.p\*\*.nsone.net<br>dns2.p\*\*.nsone.net<br>dns3.p\*\*.nsone.net<br>dns4.p\*\*.nsone.net | [Issue #7](https://github.com/indianajson/can-i-take-over-dns/issues/7)
 [TierraNet](https://tierra.net/) | **Vulnerable** | ns1.domaindiscover.com<br>ns2.domaindiscover.com | [Issue #24](https://github.com/indianajson/can-i-take-over-dns/issues/24)
 [Reg.ru](https://reg.ru/) | **Vulnerable <sub><sup>(w/ purchase)</sub></sup>** | ns1.reg.ru<br>ns2.reg.ru | [Issue #28](https://github.com/indianajson/can-i-take-over-dns/issues/28)
-[Yahoo Small Business](https://yahoosmallbusiness.com/) | **Vulnerable<sub><sup> (w/ purchase)</sub></sup>** | yns1.yahoo.com<br>yns2.yahoo.com | [Issue #20](https://github.com/indianajson/can-i-take-over-dns/issues/20)
+[UltraDNS](https://www.home.neustar/dns-services/ultra-dns) | **Not Vulnerable** | pdns***.ultradns.com<br>udns***.ultradns.com<br>sdns***.ultradns.com | [Issue #29](https://github.com/indianajson/can-i-take-over-dns/issues/29)
+[Yahoo Small Business](https://yahoosmallbusiness.com/) | **Vulnerable <sub><sup>(w/ purchase)</sub></sup>** | yns1.yahoo.com<br>yns2.yahoo.com | [Issue #20](https://github.com/indianajson/can-i-take-over-dns/issues/20)
 
 
 ## Private DNS
