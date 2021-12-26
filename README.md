@@ -28,6 +28,7 @@ Provider                                        | Status         | Fingerprint  
 [MediaTemple (mt)](https://mediatemple.net/) | **Not Vulnerable** | ns1.mediatemple.net<br>ns2.mediatemple.net | [Issue #23](https://github.com/indianajson/can-i-take-over-dns/issues/23)
 [MyDomain](https://mydomain.com/) | **Vulnerable <sub><sup>(w/ purchase)</sub></sup>** | ns1.mydomain.com<br>ns2.mydomain.com | [Issue #4](https://github.com/indianajson/can-i-take-over-dns/issues/4)
 [Name.com](https://name.com/) | **Vulnerable <sub><sup>(w/ purchase)</sub></sup>** | ns1***.name.com<br>ns2***.name.com<br>ns3***.name.com<br>ns4***.name.com | [Issue #8](https://github.com/libertalialtd/can-i-take-over-dns/issues/8)
+[NameCheap.com](https://namecheap.com/) | **Not Vulnerable</sup>** | \*.namecheaphosting.com<br>\*.registrar-servers.com | 
 [Network Solutions](https://networksolutions.com/) | **Not Vulnerable** | ns\*\*.worldnic.com | [Issue #15](https://github.com/indianajson/can-i-take-over-dns/issues/15)
 [NS1](https://nsone.net/) | **Vulnerable** | dns1.p\*\*.nsone.net<br>dns2.p\*\*.nsone.net<br>dns3.p\*\*.nsone.net<br>dns4.p\*\*.nsone.net | [Issue #7](https://github.com/indianajson/can-i-take-over-dns/issues/7)
 [TierraNet](https://tierra.net/) | **Vulnerable** | ns1.domaindiscover.com<br>ns2.domaindiscover.com | [Issue #24](https://github.com/indianajson/can-i-take-over-dns/issues/24)
