@@ -22,13 +22,14 @@ Provider                                        | Status         | Fingerprint  
 [EasyDNS](https://easydns.com/) | **Vulnerable** | dns1.easydns.com<br>dns2.easydns.net<br>dns3.easydns.org<br>dns4.easydns.info| [Issue #9](https://github.com/indianajson/can-i-take-over-dns/issues/9)
 [Gandi.net](https://gandi.net/) | **Not Vulnerable** | a.dns.gandi.net<br>b.dns.gandi.net<br>c.dns.gandi.net | 
 [Google Cloud](https://cloud.google.com/) | **Vulnerable** | ns-cloud-\*\*.googledomains.com | [Issue #2](https://github.com/indianajson/can-i-take-over-dns/issues/2)
+[Hostinger](https://hostinger.com/) | **Not Vulnerable** | ns1.hostinger.com<br>ns2.hostinger.com | 
 [Hover](https://hover.com/) | **Not Vulnerable** | ns1.hover.com<br>ns2.hover.com | [Issue #21](https://github.com/indianajson/can-i-take-over-dns/issues/21)
 [Hurricane Electric](https://dns.he.net/) | **Vulnerable** | ns5.he.net<br>ns4.he.net<br>ns3.he.net<br>ns2.he.net<br>ns1.he.net | [Issue #25](https://github.com/indianajson/can-i-take-over-dns/issues/25)
 [Linode](https://linode.com/) | **Vulnerable** | ns1.linode.com<br>ns2.linode.com | [Issue #26](https://github.com/indianajson/can-i-take-over-dns/issues/26)
 [MediaTemple (mt)](https://mediatemple.net/) | **Not Vulnerable** | ns1.mediatemple.net<br>ns2.mediatemple.net | [Issue #23](https://github.com/indianajson/can-i-take-over-dns/issues/23)
 [MyDomain](https://mydomain.com/) | **Vulnerable <sub><sup>(w/ purchase)</sub></sup>** | ns1.mydomain.com<br>ns2.mydomain.com | [Issue #4](https://github.com/indianajson/can-i-take-over-dns/issues/4)
 [Name.com](https://name.com/) | **Vulnerable <sub><sup>(w/ purchase)</sub></sup>** | ns1***.name.com<br>ns2***.name.com<br>ns3***.name.com<br>ns4***.name.com | [Issue #8](https://github.com/libertalialtd/can-i-take-over-dns/issues/8)
-[NameCheap.com](https://namecheap.com/) | **Not Vulnerable</sup>** | \*.namecheaphosting.com<br>\*.registrar-servers.com | 
+[namecheap](https://namecheap.com/) | **Not Vulnerable</sup>** | \*.namecheaphosting.com<br>\*.registrar-servers.com | 
 [Network Solutions](https://networksolutions.com/) | **Not Vulnerable** | ns\*\*.worldnic.com | [Issue #15](https://github.com/indianajson/can-i-take-over-dns/issues/15)
 [NS1](https://nsone.net/) | **Vulnerable** | dns1.p\*\*.nsone.net<br>dns2.p\*\*.nsone.net<br>dns3.p\*\*.nsone.net<br>dns4.p\*\*.nsone.net | [Issue #7](https://github.com/indianajson/can-i-take-over-dns/issues/7)
 [TierraNet](https://tierra.net/) | **Vulnerable** | ns1.domaindiscover.com<br>ns2.domaindiscover.com | [Issue #24](https://github.com/indianajson/can-i-take-over-dns/issues/24)
