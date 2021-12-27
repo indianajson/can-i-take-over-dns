@@ -45,14 +45,15 @@ These are private nameservers operated by various companies. The general public 
 Owner                                        | Status         | Fingerprint                                                             |                                                     
 --------------------------------------------- | -------------- | -----------------------------------------------------------------------  |
 [Activision](https://activision.com/) | **Not Vulnerable** | ns\*.activision.com | 
-[Adobe](https://adobe.com/) | **Not Vulnerable** | adobe-dns-01.adobe.com<br>adobe-dns-02.adobe.com<br>adobe-dns-03.adobe.com<br>adobe-dns-04.adobe.com<br>adobe-dns-05.adobe.com | 
+[Adobe](https://adobe.com/) | **Not Vulnerable** | adobe-dns-0*.adobe.com | 
 [Apple](https://apple.com/) | **Not Vulnerable** | a.ns.apple.com<br>b.ns.apple.com<br>c.ns.apple.com<br>d.ns.apple.com |
-[Automattic](https://automattic.com/) | **Not Vulnerable** | ns1.automattic.com<br>ns2.automattic.com |
-[Capital One](https://capitalone.com/) | **Not Vulnerable** | ns1.capitalone.com<br>ns2.capitalone.com<br>ns3.capitalone.com | 
-[CSU.ST](https://CSU.ST/) | **Not Vulnerable** | 0xd0a1.csust.net<br>0xd0a2.csust.net<br>0xd0a3.csust.net<br>0xd0a4.csust.net | 
-[The Walt Disney Company](https://disney.com/) | **Not Vulnerable** | ns1.twdcns.com<br>ns2.twdcns.com<br>ns3.twdcns.info<br>ns4.twdcns.info<br>ns5.twdcns.co.uk<br>ns6.twdcns.co.uk |
-[Lowe's](https://lowes.com/) | **Not Vulnerable** | authns1.lowes.com<br>authns2.lowes.com | 
+[Automattic](https://automattic.com/) | **Not Vulnerable** | ns*.automattic.com |
+[Capital One](https://capitalone.com/) | **Not Vulnerable** | ns*.capitalone.com | 
+[Disney](https://disney.com/) | **Not Vulnerable** | ns*.twdcns.com<br>ns*.twdcns.info<br>ns*.twdcns.co.uk |
+[Google](https://google.com/) | **Not Vulnerable** | ns*.google.com |
+[Lowe's](https://lowes.com/) | **Not Vulnerable** | authns*.lowes.com | 
 [T-Mobile](https://tmobileus.com/) | **Not Vulnerable** | ns10.tmobileus.com<br>ns10.tmobileus.net | 
+
 
 ## What is a DNS takeover?
 
