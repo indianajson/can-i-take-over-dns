@@ -40,7 +40,7 @@ Provider                                        | Status         | Fingerprint  
 
 ## Private DNS
 
-These are private nameservers operated by various companies. The general public cannot create zones on these nameservers and thus takeovers are not possible. Knowning nameservers that are not vulnerable can be helpful to eliminate false positives from your testing. 
+These are private nameservers operated by various companies. The general public cannot create zones on these nameservers and thus takeovers are not possible. Knowning nameservers that are private and not vulnerable can be helpful to eliminate false positives from your testing. 
 
 Owner                                        | Status         | Fingerprint                                                             |                                                     
 --------------------------------------------- | -------------- | -----------------------------------------------------------------------  |
@@ -61,10 +61,26 @@ Owner                                        | Status         | Fingerprint     
 
 You can read more at: https://0xpatrik.com/subdomain-takeover-ns/
 
+A python implementation of DNS takeovers: https://github.com/pwnesia/dnstake
+
 ## Contributions
 
 We welcome contributions! 
 
 We need new DNS providers added with information of their vulernability status. You can submit new services [here](https://github.com/indianajson/can-i-take-over-dns/issues/new?assignees=&labels=&template=add--or-update--dns-provider.md&title=%5BService+Name%5D+-+%5BStatus%5D)! We have a list of DNS providers that need to be investigated [here](https://github.com/indianajson/can-i-take-over-dns/issues/13).
 
-We also need to identify as many DNS providers as possible. We have compiled and begun to organize a list of DNS servers. If you want to help read more about it  [here](https://github.com/indianajson/can-i-take-over-dns/issues/12). 
+## Press
+
+>"I honestly think this is a great resource for security researchers and bug bounty hunters."<br>
+[@0xpatrik](https://securitytrails.com/blog/blast-radius-dns-takeovers)
+
+>"A new, but incredibly useful resource.. Essentially, a more modern/accurate can-i-take-over list for the STO you likely don't yet know about"<br>
+[Michael Skelton, Director of Security @ BugCrowd](https://mobile.twitter.com/codingo_/status/1406560274518138881)
+
+> "Still trying to find your first domain/subdomain takeover vulnerability? Go to indianajson/can-i-take-over-dns for a curated DNS takeover list. "<br>[Intigriti, Bug Bounty Platform](https://mobile.twitter.com/intigriti/status/1406213934663847937)
+
+> "There's this excellent resource on GitHub... which has a list of nameservers... that you can perform takeovers on, so I think this is an excellent resource" <br>[Shubham Shah, CTO of Assetnote](https://www.youtube.com/live/-vmZOSxdRCE?feature=share&t=324)
+
+
+.
+
