@@ -11,7 +11,7 @@ Provider                                        | Status         | Fingerprint  
 [000Domains](https://000domains.com/) | **Vulnerable <sub><sup>(w/ purchase)</sub></sup>** | ns1.000domains.com<br>ns2.000domains.com<br>fwns1.000domains.com<br>fwns2.000domains.com | [Issue #19](https://github.com/indianajson/can-i-take-over-dns/issues/19)
 [AWS Route 53](https://aws.amazon.com/) | **Not Vulnerable** | ns-\*\*\*\*.awsdns-\*\*.org<br>ns-\*\*\*\*.awsdns-\*\*.co.uk<br>ns-\*\*\*.awsdns-\*\*.com<br>ns-\*\*\*.awsdns-\*\*.net | [Issue #1](https://github.com/indianajson/can-i-take-over-dns/issues/1)
 [Azure (Microsoft)](https://azure.microsoft.com/) | **Edge Case** | ns1-\*\*.azure-dns.com<br>ns2-\*\*.azure-dns.net<br>ns3-\*\*.azure-dns.org<br>ns4-\*\*.azure-dns.info | [Issue #5](https://github.com/indianajson/can-i-take-over-dns/issues/5)
-[Bizland](https://bizland.com/) | **Vulnerable** | ns1.bizland.com<br>ns2.bizland.com<br>clickme.click2site.com<br>clickme2.click2site.com | [Issue #3](https://github.com/indianajson/can-i-take-over-dns/issues/3)
+[Bizland](https://bizland.com/) | **No New Accounts** | ns1.bizland.com<br>ns2.bizland.com<br>clickme.click2site.com<br>clickme2.click2site.com | [Issue #3](https://github.com/indianajson/can-i-take-over-dns/issues/3)
 [Cloudflare](https://cloudflare.com/) | **Edge Case** | \*.ns.cloudflare.com | [Issue #10](https://github.com/indianajson/can-i-take-over-dns/issues/10)
 [Digital Ocean](https://digitalocean.com/) | **Vulnerable** | ns1.digitalocean.com<br>ns2.digitalocean.com<br>ns3.digitalocean.com | [Issue #22](https://github.com/indianajson/can-i-take-over-dns/issues/22)
 [DNSMadeEasy](https://dnsmadeeasy.com/) | **Vulnerable** | ns\*\*.dnsmadeeasy.com | [Issue #6](https://github.com/indianajson/can-i-take-over-dns/issues/6)
@@ -31,7 +31,7 @@ Provider                                        | Status         | Fingerprint  
 [Name.com](https://name.com/) | **Vulnerable <sub><sup>(w/ purchase)</sub></sup>** | ns1***.name.com<br>ns2***.name.com<br>ns3***.name.com<br>ns4***.name.com | [Issue #8](https://github.com/libertalialtd/can-i-take-over-dns/issues/8)
 [namecheap](https://namecheap.com/) | **Not Vulnerable</sup>** | \*.namecheaphosting.com<br>\*.registrar-servers.com | 
 [Network Solutions](https://networksolutions.com/) | **Not Vulnerable** | ns\*\*.worldnic.com | [Issue #15](https://github.com/indianajson/can-i-take-over-dns/issues/15)
-[NS1](https://nsone.net/) | **Vulnerable** | dns1.p\*\*.nsone.net<br>dns2.p\*\*.nsone.net<br>dns3.p\*\*.nsone.net<br>dns4.p\*\*.nsone.net | [Issue #7](https://github.com/indianajson/can-i-take-over-dns/issues/7)
+[NS1](https://nsone.net/) | **No Open Registration** | dns1.p\*\*.nsone.net<br>dns2.p\*\*.nsone.net<br>dns3.p\*\*.nsone.net<br>dns4.p\*\*.nsone.net | [Issue #7](https://github.com/indianajson/can-i-take-over-dns/issues/7)
 [TierraNet](https://tierra.net/) | **Vulnerable** | ns1.domaindiscover.com<br>ns2.domaindiscover.com | [Issue #24](https://github.com/indianajson/can-i-take-over-dns/issues/24)
 [Reg.ru](https://reg.ru/) | **Vulnerable <sub><sup>(w/ purchase)</sub></sup>** | ns1.reg.ru<br>ns2.reg.ru | [Issue #28](https://github.com/indianajson/can-i-take-over-dns/issues/28)
 [UltraDNS](https://www.home.neustar/dns-services/ultra-dns) | **Not Vulnerable** | pdns***.ultradns.com<br>udns***.ultradns.com<br>sdns***.ultradns.com | [Issue #29](https://github.com/indianajson/can-i-take-over-dns/issues/29)
