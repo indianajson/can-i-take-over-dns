@@ -31,7 +31,7 @@ Provider                                        | Status         | Fingerprint  
 [Name.com](https://name.com/) | **Vulnerable <sub><sup>(w/ purchase)</sub></sup>** | ns1***.name.com<br>ns2***.name.com<br>ns3***.name.com<br>ns4***.name.com | [Issue #8](https://github.com/libertalialtd/can-i-take-over-dns/issues/8)
 [namecheap](https://namecheap.com/) | **Not Vulnerable</sup>** | \*.namecheaphosting.com<br>\*.registrar-servers.com | 
 [Network Solutions](https://networksolutions.com/) | **Not Vulnerable** | ns\*\*.worldnic.com | [Issue #15](https://github.com/indianajson/can-i-take-over-dns/issues/15)
-[NS1](https://nsone.net/) | **No Open Registration** | dns1.p\*\*.nsone.net<br>dns2.p\*\*.nsone.net<br>dns3.p\*\*.nsone.net<br>dns4.p\*\*.nsone.net | [Issue #7](https://github.com/indianajson/can-i-take-over-dns/issues/7)
+[NS1](https://nsone.net/) | **Registration Closed <br><sub>I can help, comment on the linked issue.</sub>** | dns1.p\*\*.nsone.net<br>dns2.p\*\*.nsone.net<br>dns3.p\*\*.nsone.net<br>dns4.p\*\*.nsone.net | [Issue #7](https://github.com/indianajson/can-i-take-over-dns/issues/7)
 [TierraNet](https://tierra.net/) | **Vulnerable** | ns1.domaindiscover.com<br>ns2.domaindiscover.com | [Issue #24](https://github.com/indianajson/can-i-take-over-dns/issues/24)
 [Reg.ru](https://reg.ru/) | **Vulnerable <sub><sup><br>(sanctions may stop payments)</sub></sup>** | ns1.reg.ru<br>ns2.reg.ru | [Issue #28](https://github.com/indianajson/can-i-take-over-dns/issues/28)
 [UltraDNS](https://www.home.neustar/dns-services/ultra-dns) | **Not Vulnerable** | pdns***.ultradns.com<br>udns***.ultradns.com<br>sdns***.ultradns.com | [Issue #29](https://github.com/indianajson/can-i-take-over-dns/issues/29)
