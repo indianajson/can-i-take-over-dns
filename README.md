@@ -13,7 +13,8 @@ Provider                                        | Status         | Fingerprint  
 [Azure (Microsoft)](https://azure.microsoft.com/) | **Edge Case** | ns1-\*\*.azure-dns.com<br>ns2-\*\*.azure-dns.net<br>ns3-\*\*.azure-dns.org<br>ns4-\*\*.azure-dns.info | [Issue #5](https://github.com/indianajson/can-i-take-over-dns/issues/5)
 [BigCommerce](https://bigcommerce.com/) | **Not Vulnerable** | ns1.bigcommerce.com<br>ns2.bigcommerce.com<br>ns3.bigcommerce.com | [Issue #35](https://github.com/indianajson/can-i-take-over-dns/issues/35)
 [Bizland](https://bizland.com/) | **No New Accounts** | ns1.bizland.com<br>ns2.bizland.com<br>clickme.click2site.com<br>clickme2.click2site.com | [Issue #3](https://github.com/indianajson/can-i-take-over-dns/issues/3)
-[Cloudflare](https://cloudflare.com/) | **Edge Case** | \*.ns.cloudflare.com | [Issue #10](https://github.com/indianajson/can-i-take-over-dns/issues/10)
+[ClouDNS](https://cloudns.net/) | **Not Vulnerable** | \*.cloudns.net | 
+[Cloudflare](https://cloudflare.com/) | **Not Vulnerable** | \*.ns.cloudflare.com | [Issue #10](https://github.com/indianajson/can-i-take-over-dns/issues/10)
 [Digital Ocean](https://digitalocean.com/) | **Vulnerable** | ns1.digitalocean.com<br>ns2.digitalocean.com<br>ns3.digitalocean.com | [Issue #22](https://github.com/indianajson/can-i-take-over-dns/issues/22)
 [DNSMadeEasy](https://dnsmadeeasy.com/) | **Vulnerable** | ns\*\*.dnsmadeeasy.com | [Issue #6](https://github.com/indianajson/can-i-take-over-dns/issues/6)
 [DNSimple](https://dnsimple.com/) | **Vulnerable** | ns1.dnsimple.com<br>ns2.dnsimple.com<br>ns3.dnsimple.com<br>ns4.dnsimple.com | [Issue #16](https://github.com/indianajson/can-i-take-over-dns/issues/16)
@@ -68,9 +69,11 @@ A python implementation of DNS takeovers: https://github.com/pwnesia/dnstake
 
 We welcome contributions! 
 
-We need new DNS providers added with information of their vulernability status. You can submit new services [here](https://github.com/indianajson/can-i-take-over-dns/issues/new?assignees=&labels=&template=add--or-update--dns-provider.md&title=%5BService+Name%5D+-+%5BStatus%5D)! We have a list of DNS providers that need to be investigated [here](https://github.com/indianajson/can-i-take-over-dns/issues/13).
+We need new DNS providers added with information of their vulnerability status. You can submit new services [here](https://github.com/indianajson/can-i-take-over-dns/issues/new?assignees=&labels=&template=add--or-update--dns-provider.md&title=%5BService+Name%5D+-+%5BStatus%5D)! We have a list of DNS providers that need to be investigated [here](https://github.com/indianajson/can-i-take-over-dns/issues/13).
 
 ## Press
+
+>"How does one know whether a DNS provider is exploitable? There is a frequently updated list published on GitHub called “Can I take over DNS,” which has been documenting exploitability by DNS provider over the past several years."<br>[Brian Krebs](https://krebsonsecurity.com/2024/07/dont-let-your-domain-name-become-a-sitting-duck/)
 
 >"I honestly think this is a great resource for security researchers and bug bounty hunters."<br>
 [@0xpatrik](https://securitytrails.com/blog/blast-radius-dns-takeovers)
