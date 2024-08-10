@@ -21,7 +21,7 @@ Provider                                        | Status         | Fingerprint  
 [Domain.com](https://domain.com/)| **Vulnerable <sub><sup>(w/ purchase)</sub></sup>** | ns1.domain.com<br>ns2.domain.com | [Issue #17](https://github.com/indianajson/can-i-take-over-dns/issues/17)
 [DomainPeople](https://domainpeople.com/)| **Not Vulnerable** | ns1.domainpeople.com<br>ns2.domainpeople.com | [Issue #14](https://github.com/indianajson/can-i-take-over-dns/issues/14)
 [Dotster](https://dotster.com/)| **Vulnerable <sub><sup>(w/ purchase)</sub></sup>** | ns1.dotster.com<br>ns2.dotster.com<br>ns1.nameresolve.com<br>ns2.nameresolve.com | [Issue #18](https://github.com/indianajson/can-i-take-over-dns/issues/18)
-[EasyDNS](https://easydns.com/) | **Vulnerable** | dns1.easydns.com<br>dns2.easydns.net<br>dns3.easydns.org<br>dns4.easydns.info| [Issue #9](https://github.com/indianajson/can-i-take-over-dns/issues/9)
+[EasyDNS](https://easydns.com/) | **Not Vulnerable** | dns1.easydns.com<br>dns2.easydns.net<br>dns3.easydns.org<br>dns4.easydns.info| [Issue #9](https://github.com/indianajson/can-i-take-over-dns/issues/9)
 [Gandi.net](https://gandi.net/) | **Not Vulnerable** | a.dns.gandi.net<br>b.dns.gandi.net<br>c.dns.gandi.net | 
 [Google Cloud](https://cloud.google.com/) | **Vulnerable** | ns-cloud-\*\*.googledomains.com | [Issue #2](https://github.com/indianajson/can-i-take-over-dns/issues/2)
 [Hostinger (old NS)](https://hostinger.com/) | **Not Vulnerable** | ns1.hostinger.com<br>ns2.hostinger.com | 
