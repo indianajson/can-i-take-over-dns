@@ -67,9 +67,9 @@ A python implementation of DNS takeovers: https://github.com/pwnesia/dnstake
 
 ## Contributions
 
-We welcome contributions! 
+We need more DNS providers added to the database with information about their services. 
 
-We need new DNS providers added with information of their vulnerability status. You can submit new services [here](https://github.com/indianajson/can-i-take-over-dns/issues/new?assignees=&labels=&template=add--or-update--dns-provider.md&title=%5BService+Name%5D+-+%5BStatus%5D)! We have a list of DNS providers that need to be investigated [here](https://github.com/indianajson/can-i-take-over-dns/issues/13).
+If you want to help out, please check out the getting started guide [here](https://github.com/indianajson/can-i-take-over-dns/issues/11). 
 
 ## Press
 
