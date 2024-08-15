@@ -69,8 +69,7 @@ A python implementation of DNS takeovers: https://github.com/pwnesia/dnstake
 
 We welcome contributions! 
 
-We need new DNS providers added with information of their vulnerability status. You can submit new services [here](https://github.com/indianajson/can-i-take-over-dns/issues/new?assignees=&labels=&template=add--or-update--dns-provider.md&title=%5BService+Name%5D+-+%5BStatus%5D)! We have a list of DNS providers that need to be investigated [here](https://github.com/indianajson/can-i-take-over-dns/issues/13).
-
+We need new DNS providers added with information of their vulnerability status. If you'd like to contribute, start [here](https://github.com/indianajson/can-i-take-over-dns/issues/11). You can submit new services [here](https://github.com/indianajson/can-i-take-over-dns/issues/new?assignees=&labels=&template=add--or-update--dns-provider.md&title=%5BService+Name%5D+-+%5BStatus%5D)!
 ## Press
 
 >"How does one know whether a DNS provider is exploitable? There is a frequently updated list published on GitHub called “Can I take over DNS,” which has been documenting exploitability by DNS provider over the past several years."<br>[Brian Krebs](https://krebsonsecurity.com/2024/07/dont-let-your-domain-name-become-a-sitting-duck/)
