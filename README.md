@@ -4,8 +4,9 @@ Inspired by the popular [Can I Take Over XYZ?](https://github.com/EdOverflow/can
 
 ## Reporting to Bug Bounty Programs
 
+Here's a [public $500 bounty report](https://hackerone.com/reports/1226891) for a DNS takeover that I wrote with a thorough explanation to help you understand the issue and give you a template for how to write your own report. 
 
-Here's a [public $500 bounty report](https://hackerone.com/reports/1226891) for a DNS takeover that I wrote with a thorough explanation to help you understand the issue and give you a template for how to write your own report. Remember, **<ins>always create a valid proof of concept</ins>** (like the text record I added to the DNS zone in this report) before you report an issue to a bug bounty program, this will save time and get you paid faster. 
+Remember, **<ins>always create a valid proof of concept</ins>** (like the text record I added to the DNS zone in this report) before you report an issue to a bug bounty program, this will save time and get you paid faster. This list is updated infrequently (due to the fact things don't change that fast), so it is possible something listed below as `Vulnerable` is now `Not Vulnerable`. To that end, be sure to always perform a proof of concept takeover before reporting.  
  
 ## DNS Providers
 
