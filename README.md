@@ -23,7 +23,7 @@ Provider                                        | Status         | Fingerprint  
 [Cloudflare](https://cloudflare.com/) | **Not Vulnerable** | \*.ns.cloudflare.com | [Issue #10](https://github.com/indianajson/can-i-take-over-dns/issues/10)
 [Digital Ocean](https://digitalocean.com/) | **Vulnerable** | ns1.digitalocean.com<br>ns2.digitalocean.com<br>ns3.digitalocean.com | [Issue #22](https://github.com/indianajson/can-i-take-over-dns/issues/22)
 [DNSMadeEasy](https://dnsmadeeasy.com/) | **Vulnerable** | ns\*\*.dnsmadeeasy.com | [Issue #6](https://github.com/indianajson/can-i-take-over-dns/issues/6)
-[DNSimple](https://dnsimple.com/) | **Vulnerable** | ns1.dnsimple.com<br>ns2.dnsimple.com<br>ns3.dnsimple.com<br>ns4.dnsimple.com | [Issue #16](https://github.com/indianajson/can-i-take-over-dns/issues/16)
+[DNSimple](https://dnsimple.com/) | **Not Vulnerable** | ns1.dnsimple.com<br>ns2.dnsimple.com<br>ns3.dnsimple.com<br>ns4.dnsimple.com | [Issue #16](https://github.com/indianajson/can-i-take-over-dns/issues/16)
 [Domain.com](https://domain.com/)| **Vulnerable <sub><sup>(w/ purchase)</sub></sup>** | ns1.domain.com<br>ns2.domain.com | [Issue #17](https://github.com/indianajson/can-i-take-over-dns/issues/17)
 [DomainPeople](https://domainpeople.com/)| **Not Vulnerable** | ns1.domainpeople.com<br>ns2.domainpeople.com | [Issue #14](https://github.com/indianajson/can-i-take-over-dns/issues/14)
 [Dotster](https://dotster.com/)| **Not Vulnerable** | ns1.dotster.com<br>ns2.dotster.com<br>ns1.nameresolve.com<br>ns2.nameresolve.com | [Issue #18](https://github.com/indianajson/can-i-take-over-dns/issues/18)
